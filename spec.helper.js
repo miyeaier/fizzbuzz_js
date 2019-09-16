@@ -3,4 +3,4 @@ const BrowserHelpers = require('e2e_training_wheels')
 global.browser = new BrowserHelpers()
 global.expect = chai.expect;
 
-global.FizzBuzz = require('./src/js/fizzbuzz.js')
+global.FizzBuzz = require('./js/fizzbuzz.js')
