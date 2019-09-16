@@ -1,0 +1,19 @@
+html, body{
+  margin: 2000px 2000px 2000px 2000;
+padding : 100px 50px 50px 100px;
+
+background-color: #FFDDAA  ;
+
+border:5#FFBB66;
+    border-right: 8px#FFBB66;
+    border-left: 8px#FFBB66;
+    border-top: 8px#FFBB66;
+    border-bottom: 8px#FFBB66;
+
+
+}
+h1 {
+  color :#FFBB66;
+
+  font-family:Didot,serif
+}
